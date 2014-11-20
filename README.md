@@ -1,3 +1,24 @@
+## ira_photonfocus_driver (indigo) - 1.0.0-2
+
+The packages in the `ira_photonfocus_driver` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo ira_photonfocus_driver` on `Thu, 20 Nov 2014 17:05:16 -0000`
+
+The `ira_photonfocus_driver` package was released.
+
+Version of package(s) in repository `ira_photonfocus_driver`:
+- upstream repository: https://github.com/iralabdisco/ira_photonfocus_driver.git
+- release repository: https://github.com/iralabdisco/ira_photonfocus_driver-release.git
+- rosdistro version: `1.0.0-1`
+- old version: `1.0.0-1`
+- new version: `1.0.0-2`
+
+Versions of tools used:
+- bloom version: `0.5.12`
+- catkin_pkg version: `0.2.6`
+- rosdep version: `0.10.32`
+- rosdistro version: `0.3.6`
+- vcstools version: `0.1.35`
+
+
 ## ira_photonfocus_driver-release (indigo) - 1.0.0-1
 
 The packages in the `ira_photonfocus_driver-release` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo ira_photonfocus_driver-release` on `Thu, 20 Nov 2014 15:32:45 -0000`
